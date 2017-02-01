@@ -1,2 +1,4 @@
 # hello-world
-information about projects on my sites
+
+Welcome to the BrownSugarMama show! 
+I'm excited for all the things i will create in this enviornment. 
